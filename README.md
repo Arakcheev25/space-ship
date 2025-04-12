@@ -80,7 +80,8 @@ project/
 │   ├── left_3.png
 │   ├── right_1.png
 │   ├── right_3.png
-│   └── gaming.ico
+│   ├── gaming.ico
+│   └── gaming.png 
 └── sound/           # Папка со звуками
     ├── sound_back.mp3
     ├── Game_over.mp3
